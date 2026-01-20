@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "49-return-arrays-from-methods", "49-return-arrays-from-methods.csproj", "{3A1EAB8B-02CE-C8E7-95FA-900CA7B30ECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A1EAB8B-02CE-C8E7-95FA-900CA7B30ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A1EAB8B-02CE-C8E7-95FA-900CA7B30ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A1EAB8B-02CE-C8E7-95FA-900CA7B30ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A1EAB8B-02CE-C8E7-95FA-900CA7B30ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7F2047F-6F18-4752-ABC5-09085FAA8465}
+	EndGlobalSection
+EndGlobal

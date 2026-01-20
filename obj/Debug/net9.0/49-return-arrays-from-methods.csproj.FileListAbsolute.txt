@@ -1,0 +1,14 @@
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\49-return-arrays-from-methods\bin\Debug\net9.0\49-return-arrays-from-methods.exe
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\49-return-arrays-from-methods\bin\Debug\net9.0\49-return-arrays-from-methods.deps.json
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\49-return-arrays-from-methods\bin\Debug\net9.0\49-return-arrays-from-methods.runtimeconfig.json
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\49-return-arrays-from-methods\bin\Debug\net9.0\49-return-arrays-from-methods.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\49-return-arrays-from-methods\bin\Debug\net9.0\49-return-arrays-from-methods.pdb
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\49-return-arrays-from-methods\obj\Debug\net9.0\49-return-arrays-from-methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\49-return-arrays-from-methods\obj\Debug\net9.0\49-return-arrays-from-methods.AssemblyInfoInputs.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\49-return-arrays-from-methods\obj\Debug\net9.0\49-return-arrays-from-methods.AssemblyInfo.cs
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\49-return-arrays-from-methods\obj\Debug\net9.0\49-return-arrays-from-methods.csproj.CoreCompileInputs.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\49-return-arrays-from-methods\obj\Debug\net9.0\49-return-arrays-from-methods.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\49-return-arrays-from-methods\obj\Debug\net9.0\refint\49-return-arrays-from-methods.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\49-return-arrays-from-methods\obj\Debug\net9.0\49-return-arrays-from-methods.pdb
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\49-return-arrays-from-methods\obj\Debug\net9.0\49-return-arrays-from-methods.genruntimeconfig.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\49-return-arrays-from-methods\obj\Debug\net9.0\ref\49-return-arrays-from-methods.dll
